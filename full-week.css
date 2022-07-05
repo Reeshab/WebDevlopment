@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+    margin: 50px;
+    text-align: center;
+    color: burlywood;
+}
+h1{
+    font-family: 'Oswald', san-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'sans-serif;
+    color aquamarine;
+}
+
+a{
+    font-family:'Fira Sans', sans-serif;
+    text-decoration:none;
+    color:yellow;
+}
+
+a{
+    text-decoration: underline;
+
+}
